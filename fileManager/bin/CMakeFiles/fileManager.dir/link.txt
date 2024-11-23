@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/fileManager.dir/main_fm.cpp.o -o fileManager  -lpthread ../libFileManager.a -lstdc++fs 

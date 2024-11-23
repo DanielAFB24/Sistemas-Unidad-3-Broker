@@ -1,0 +1,6 @@
+/home/ubuntu/PSDI_Dist/P1fileManager/fileManager/bin/CMakeFiles/server.dir
+/home/ubuntu/PSDI_Dist/P1fileManager/fileManager/bin/CMakeFiles/client.dir
+/home/ubuntu/PSDI_Dist/P1fileManager/fileManager/bin/CMakeFiles/fileManager.dir
+/home/ubuntu/PSDI_Dist/P1fileManager/fileManager/bin/CMakeFiles/broker.dir
+/home/ubuntu/PSDI_Dist/P1fileManager/fileManager/bin/CMakeFiles/edit_cache.dir
+/home/ubuntu/PSDI_Dist/P1fileManager/fileManager/bin/CMakeFiles/rebuild_cache.dir

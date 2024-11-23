@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/client.dir/utils.cpp.o CMakeFiles/client.dir/main_fm.cpp.o CMakeFiles/client.dir/filemanagerRemote.cpp.o -o client  -lpthread -lstdc++fs 
